@@ -55,4 +55,13 @@ npm test
 
 To complete this project, some steps will still be taken, such as:
 
+- Implement another functionalities (Read, Update, Delete, authentication, etc);
+- Optimize queries and access to firestore;
+- Create a swagger to routes;
 - ...
+
+## About the architecture
+
+The layered architecture was chosen for this project to enhance code organization and maintainability.
+Each layer has a clear responsibility, which simplifies debugging and allows for independent testing and development.
+Furthermore, the layered architecture promotes the scalability necessary for the project.
