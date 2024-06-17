@@ -63,5 +63,7 @@ To complete this project, some steps will still be taken, such as:
 ## About the architecture
 
 The layered architecture was chosen for this project to enhance code organization and maintainability.
+In this architecture, we have Controllers (input and output logic), Services (business logic) and Repositories (database communication).
+
 Each layer has a clear responsibility, which simplifies debugging and allows for independent testing and development.
 Furthermore, the layered architecture promotes the scalability necessary for the project.
