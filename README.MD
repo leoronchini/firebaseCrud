@@ -35,6 +35,12 @@ curl --location 'http://localhost:5001/<YOUR_PROJECT_ID>/us-central1/api/addData
 --data '{"name": "John Doe"}'
 ```
 
+## Screenshots
+
+![Screenshot1](./assets/Screenshot1.png)
+![Screenshot2](./assets/Screenshot2.png)
+
+
 
 ## Next steps
 To complete this project, some steps will still be taken, such as:
